@@ -1405,7 +1405,7 @@ const HomePage = ({ products, setRoute, onProductSelect, onAddToCart }: { produc
                             <img 
                                 src={BUY1_GET1_FREE_URL} 
                                 alt="Buy 1 Get 1 Free Shilajit Offer" 
-                                className="max-w-full h-auto max-h-[400px] object-contain drop-shadow-2xl transform group-hover:scale-105 transition-transform duration-700"
+                                className="max-w-[280px] md:max-w-[320px] h-auto object-contain drop-shadow-2xl transform group-hover:scale-105 transition-transform duration-700"
                             />
                         </div>
                     </div>
